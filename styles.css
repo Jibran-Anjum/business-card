@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+}
+
+.card {
+    display: flex;
+    color: #2b2839;
+    padding: 20px;
+    background: #ddebf8;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 6px #d8cefe solid;
+    font-family: JetBrainsMono Nerd Font;
+}
+
+.avatar {
+    width: 150px;
+}
+
