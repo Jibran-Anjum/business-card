@@ -4,14 +4,14 @@ body {
 
 .card {
     display: flex;
-    color: #2b2839;
+    color: #BAD4CF;
     padding: 20px;
-    background: #ddebf8;
+    background: #212424;
     justify-content: space-around;
     width: 400px;
     margin: 0 auto;
     text-align: center;
-    border-bottom: 6px #d8cefe solid;
+    border-bottom: 6px lightblue solid;
     font-family: JetBrainsMono Nerd Font;
 }
 
