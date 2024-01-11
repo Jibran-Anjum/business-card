@@ -12,7 +12,8 @@ body {
     margin: 0 auto;
     text-align: center;
     border-bottom: 6px lightblue solid;
-    font-family: JetBrainsMono Nerd Font;
+    font-size: 15px;
+    font-family: monospace;
 }
 
 .avatar {
